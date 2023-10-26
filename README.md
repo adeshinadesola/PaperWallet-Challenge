@@ -9,7 +9,7 @@ npm install -g expo-cli
 
 After installing Expo CLI, clone this repository to your local machine using the command:
 
-git clone https://github.com/Folajomi1/PaperWallet-Challenge.git
+git clone https://github.com/Adeshinadesola/PaperWallet-Challenge.git
 
 Next, navigate to the project directory and install the project dependencies by running the command: npm install
 
